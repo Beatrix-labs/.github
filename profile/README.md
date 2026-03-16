@@ -16,7 +16,7 @@ We are currently in **Phase 3**, introducing powerful Object-Oriented features:
 ## 🛠 Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/Beatrix-lang/beatrix
+git clone https://github.com/Beatrix-language/beatrix
 
 # Build the engine
 cd beatrix && make
